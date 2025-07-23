@@ -55,3 +55,4 @@ You may use, modify, and distribute this work **only if** any derivative works a
 
 **For commercial or military licensing, contact:**  
 melanie_grande@icloud.com
+🛡️ Licensed under AGPL-3.0 — This repo is open, but all forks must remain open too.
